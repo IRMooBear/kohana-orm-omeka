@@ -1,0 +1,12 @@
+#System Files
+.DS_Store
+
+#Dreamweaver
+_notes/
+dwsync.xml
+
+#MySQL Workbench
+*.mwb.bak
+
+
+
